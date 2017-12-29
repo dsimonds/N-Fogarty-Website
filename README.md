@@ -17,10 +17,10 @@ Previous website developed for NSU Professor
 ![List of Courses](./screenshots/04.JPG)
 
 # Media
-![Image Gallery](./screenshots/04.JPG)
+![Image Gallery](./screenshots/05.JPG)
 
 # Related Links
-![Links to Related Content](./screenshots/04.JPG)
+![Links to Related Content](./screenshots/06.JPG)
 
 -Derek Simonds
 
